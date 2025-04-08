@@ -1,5 +1,56 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Right after thanking the audience, the vocalist adds, looking at the band] Next. [Someone from the audience interjects] Dont say thank you, we're a serious fucking audience. [Vocalist] Alright! [Guitar player adds, pointing at the audience] Youre a really fucking funny guy, man. [Vocalist] Lets go, next song! [Scattered laughter and incomprehensible heckling between band and audience] | Video Description: Medium shot, panning left and right, of the band members interacting with each other and with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "category": "Setting",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "bc68e708-a515-4fdc-b193-12a6a99c38be"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist, with the guitarist interrupting the last word with a loud chord] In case you didnt notice, this is an artistic (event?). [An audience member] If you didnt (pack your lip?) it would be better. [Vocalist] Go for it. [Guitarist, out of the frame] Better than what? | Video Description: Closeup of the vocalist interacting with the band members and the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "category": "Setting",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "00606d24-8d50-48d1-a995-51446c4bc0d0"
+    }
+  ],
   "set": "Default",
   "event_id": "5dc642fd-30a0-4e6c-a3cc-8f5977cadbe6",
   "source_id": "d7bbe1d4-d3d1-412a-8c7f-ff73e4e51553"
